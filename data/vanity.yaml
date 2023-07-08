@@ -5,5 +5,7 @@ host: go.kubeware.dev
 paths:
   /catalog:
     repo: https://github.com/kubeware/catalog
+  /catalog-manager:
+    repo: https://github.com/kubeware/catalog-manager
   /kubeware:
     repo: https://github.com/kubeware/kubeware
