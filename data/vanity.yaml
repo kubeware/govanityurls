@@ -9,3 +9,5 @@ paths:
     repo: https://github.com/kubeware/catalog-manager
   /kubeware:
     repo: https://github.com/kubeware/kubeware
+  /kubeware-service-provider:
+    repo: https://github.com/kubeware/kubeware-service-provider
